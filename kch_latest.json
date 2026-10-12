@@ -1,13 +1,43 @@
 {
-  "generated_at": "2026-10-09T03:04:03.683969+00:00",
+  "generated_at": "2026-10-12T08:28:42.438649+00:00",
   "source": "https://www.kch.or.kr/user/board/lists/board_cd/notice",
   "keywords": [
     "전공의",
     "레지던트"
   ],
   "post_count": 20,
-  "relevant_count": 1,
+  "relevant_count": 0,
   "posts": [
+    {
+      "wr_no": 999,
+      "title": "병동지원인력(간호조무사) 채용공고",
+      "date": "2026-10-12",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/999",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
+    {
+      "wr_no": 998,
+      "title": "간호사(2027졸업예정자) 3차전형 세부일정 공지사항",
+      "date": "2026-10-12",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/998",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
+    {
+      "wr_no": 997,
+      "title": "방사선사(계약직) 채용공고(연장)",
+      "date": "2026-10-12",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/997",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
     {
       "wr_no": 995,
       "title": "약무보조원(계약직) 채용공고",
@@ -177,80 +207,7 @@
       "matched_keywords": [],
       "detail_saved": false,
       "detail": null
-    },
-    {
-      "wr_no": 979,
-      "title": "임상병리사(계약직) 채용공고",
-      "date": "2026-09-01",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/979",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 978,
-      "title": "2026년도 하반기 레지던트 1년차 합격자",
-      "date": "2026-08-26",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/978",
-      "relevant": true,
-      "matched_keywords": [
-        "레지던트"
-      ],
-      "detail_saved": true,
-      "detail": {
-        "wr_no": 978,
-        "title": "2026년도 하반기 레지던트 1년차 합격자",
-        "date": "2026-08-26",
-        "body_text": "",
-        "images": [
-          {
-            "type": "image",
-            "filename": "723d292ecbed4f912ce1b36a9a4ffec9_1787705919_9221.jpg",
-            "url": "https://www.kch.or.kr/site_data/editor/202608/723d292ecbed4f912ce1b36a9a4ffec9_1787705919_9221.jpg",
-            "saved": true
-          }
-        ],
-        "attachments": []
-      }
-    },
-    {
-      "wr_no": 977,
-      "title": "약무보조원(계약직) 채용공고",
-      "date": "2026-08-25",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/977",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
     }
   ],
-  "relevant_posts": [
-    {
-      "wr_no": 978,
-      "title": "2026년도 하반기 레지던트 1년차 합격자",
-      "date": "2026-08-26",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/978",
-      "relevant": true,
-      "matched_keywords": [
-        "레지던트"
-      ],
-      "detail_saved": true,
-      "detail": {
-        "wr_no": 978,
-        "title": "2026년도 하반기 레지던트 1년차 합격자",
-        "date": "2026-08-26",
-        "body_text": "",
-        "images": [
-          {
-            "type": "image",
-            "filename": "723d292ecbed4f912ce1b36a9a4ffec9_1787705919_9221.jpg",
-            "url": "https://www.kch.or.kr/site_data/editor/202608/723d292ecbed4f912ce1b36a9a4ffec9_1787705919_9221.jpg",
-            "saved": true
-          }
-        ],
-        "attachments": []
-      }
-    }
-  ]
+  "relevant_posts": []
 }
