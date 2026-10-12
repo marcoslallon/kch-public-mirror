@@ -1,0 +1,79 @@
+name: KCH notice backup (independent of iPad and GCP VM)
+
+on:
+  schedule:
+    - cron: '4,12 3 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kch-notice-direct
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    steps:
+      - name: Checkout public mirror
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Install scraper dependencies
+        run: python3 -m pip install --disable-pip-version-check requests beautifulsoup4
+      - name: Fetch official notice page into isolated directory
+        env:
+          KCH_OUTPUT_DIR: ${{ runner.temp }}/kch-scrape
+          KCH_COLLECTOR_NAME: github-actions-ipad-free
+        run: python3 scripts/kch_direct_collect.py
+      - name: Publish only if newer and validated
+        shell: bash
+        run: |
+          set -Eeuo pipefail
+          git config user.name 'KCH direct collector'
+          git config user.email 'kch-direct@users.noreply.github.com'
+          git fetch origin main
+          git checkout -B main origin/main
+          TEMP_DIR="${{ runner.temp }}/kch-scrape"
+          python3 - "$TEMP_DIR" <<'PY'
+          import json,sys,datetime,pathlib,shutil
+          temp=pathlib.Path(sys.argv[1])
+          src=json.loads((temp/'kch_latest.json').read_text('utf-8'))
+          new=datetime.datetime.fromisoformat(src['generated_at'].replace('Z','+00:00'))
+          oldpath=pathlib.Path('kch_latest.json')
+          if oldpath.exists():
+              old=json.loads(oldpath.read_text('utf-8'))
+              previous=datetime.datetime.fromisoformat(old['generated_at'].replace('Z','+00:00'))
+              if previous >= new:
+                  print('ALREADY_NEWER: keeping existing mirror; no publication')
+                  pathlib.Path('.kch_skip').write_text('1')
+                  sys.exit()
+          day=new.astimezone(datetime.timezone(datetime.timedelta(hours=9))).date().isoformat()
+          pathlib.Path('daily').mkdir(exist_ok=True)
+          for fname in ('kch_latest.json','last_success.txt','mirror_status.json'):
+              shutil.copyfile(temp/fname,fname)
+          shutil.copyfile(temp/'daily'/f'{day}.json',pathlib.Path('daily')/f'{day}.json')
+          print('READY_TO_PUBLISH',day,src['post_count'])
+          PY
+          if [ -f .kch_skip ]; then exit 0; fi
+          git add kch_latest.json last_success.txt mirror_status.json daily/
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "KCH direct backup $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          for i in 1 2 3; do
+            if git push origin main; then
+              echo 'PUBLISH_OK'
+              exit 0
+            fi
+            git fetch origin main
+            git rebase origin/main || {
+              git rebase --abort || true
+              echo 'PUSH_CONFLICT: will not overwrite remote data'
+              exit 1
+            }
+            sleep $((i*2))
+          done
+          echo 'PUSH_FAILED after 3 attempts'
+          exit 1
