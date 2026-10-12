@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T08:32:08.974183+00:00",
+  "generated_at": "2026-10-12T10:05:09.322386+00:00",
   "source": "https://www.kch.or.kr/user/board/lists/board_cd/notice",
   "keywords": [
     "전공의",
@@ -8,6 +8,16 @@
   "post_count": 20,
   "relevant_count": 0,
   "posts": [
+    {
+      "wr_no": 1000,
+      "title": "간호사(면허증 소지자) 채용공고",
+      "date": "2026-10-12",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1000",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
     {
       "wr_no": 999,
       "title": "병동지원인력(간호조무사) 채용공고",
@@ -193,16 +203,6 @@
       "title": "행정사무원 채용공고",
       "date": "2026-09-01",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/981",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 980,
-      "title": "간호조무사 채용공고",
-      "date": "2026-09-01",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/980",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
