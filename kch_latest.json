@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T03:04:04.813740+00:00",
+  "generated_at": "2026-10-19T03:03:04.352813+00:00",
   "source": "https://www.kch.or.kr/user/board/lists/board_cd/notice",
   "keywords": [
     "전공의",
@@ -8,6 +8,16 @@
   "post_count": 20,
   "relevant_count": 0,
   "posts": [
+    {
+      "wr_no": 1001,
+      "title": "행정사무원(육아휴직 대체) 채용공고",
+      "date": "2026-10-19",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1001",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
     {
       "wr_no": 1000,
       "title": "간호사(면허증 소지자) 채용공고",
@@ -29,16 +39,6 @@
       "detail": null
     },
     {
-      "wr_no": 998,
-      "title": "간호사(2027졸업예정자) 3차전형 세부일정 공지사항",
-      "date": "2026-10-12",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/998",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
       "wr_no": 997,
       "title": "방사선사(계약직) 채용공고(연장)",
       "date": "2026-10-12",
@@ -49,10 +49,10 @@
       "detail": null
     },
     {
-      "wr_no": 995,
-      "title": "약무보조원(계약직) 채용공고",
-      "date": "2026-10-06",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/995",
+      "wr_no": 998,
+      "title": "간호사(2027졸업예정자) 3차전형 세부일정 공지사항",
+      "date": "2026-10-12",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/998",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
@@ -63,6 +63,16 @@
       "title": "★★관리과(기계실) 공채 최종합격자",
       "date": "2026-10-08",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/996",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
+    {
+      "wr_no": 995,
+      "title": "약무보조원(계약직) 채용공고",
+      "date": "2026-10-06",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/995",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
@@ -193,16 +203,6 @@
       "title": "간호사(2027년 졸업예정자) 채용 순위고사 1차 합격자",
       "date": "2026-09-08",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/982",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 981,
-      "title": "행정사무원 채용공고",
-      "date": "2026-09-01",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/981",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
