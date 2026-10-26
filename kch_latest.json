@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:04:03.979603+00:00",
+  "generated_at": "2026-10-26T03:03:09.211245+00:00",
   "source": "https://www.kch.or.kr/user/board/lists/board_cd/notice",
   "keywords": [
     "전공의",
@@ -8,6 +8,26 @@
   "post_count": 20,
   "relevant_count": 0,
   "posts": [
+    {
+      "wr_no": 1004,
+      "title": "간호사(면허증소지자) 채용순위고사 1차 합격자",
+      "date": "2026-10-26",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1004",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
+    {
+      "wr_no": 1003,
+      "title": "[2027년 광주기독병원 내과 1년차 모집]",
+      "date": "2026-10-23",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1003",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
     {
       "wr_no": 1001,
       "title": "행정사무원(육아휴직 대체) 채용공고",
@@ -183,26 +203,6 @@
       "title": "방사선사(계약직) 채용공고",
       "date": "2026-09-15",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/985",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 984,
-      "title": "★★행정사무원 공채 1차 합격자",
-      "date": "2026-09-14",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/984",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 983,
-      "title": "간호조무사 1차합격자 발표",
-      "date": "2026-09-14",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/983",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
