@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T03:04:03.753305+00:00",
+  "generated_at": "2026-10-27T03:03:04.241083+00:00",
   "source": "https://www.kch.or.kr/user/board/lists/board_cd/notice",
   "keywords": [
     "전공의",
@@ -8,6 +8,26 @@
   "post_count": 20,
   "relevant_count": 0,
   "posts": [
+    {
+      "wr_no": 1006,
+      "title": "간호사(2027졸업예정자) 최종합격자 공고",
+      "date": "2026-10-27",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1006",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
+    {
+      "wr_no": 1005,
+      "title": "★★병동지원인력(간호조무사) 공채 최종합격자",
+      "date": "2026-10-27",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1005",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
     {
       "wr_no": 1004,
       "title": "간호사(면허증소지자) 채용순위고사 1차 합격자",
@@ -183,26 +203,6 @@
       "title": "기계설비관리자 채용공고",
       "date": "2026-09-15",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/987",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 986,
-      "title": "임상영양사(계약직) 채용공고",
-      "date": "2026-09-15",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/986",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 985,
-      "title": "방사선사(계약직) 채용공고",
-      "date": "2026-09-15",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/985",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
