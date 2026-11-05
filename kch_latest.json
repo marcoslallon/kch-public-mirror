@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T03:04:04.872340+00:00",
+  "generated_at": "2026-11-05T03:07:36.442077+00:00",
   "source": "https://www.kch.or.kr/user/board/lists/board_cd/notice",
   "keywords": [
     "전공의",
@@ -8,6 +8,26 @@
   "post_count": 20,
   "relevant_count": 0,
   "posts": [
+    {
+      "wr_no": 1011,
+      "title": "약무보조원(계약직) 채용공고",
+      "date": "2026-11-04",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1011",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
+    {
+      "wr_no": 1010,
+      "title": "방사선사(계약직) 채용공고",
+      "date": "2026-11-04",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1010",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
     {
       "wr_no": 1009,
       "title": "임상병리사 채용공고(병리과)",
@@ -29,20 +49,20 @@
       "detail": null
     },
     {
-      "wr_no": 1007,
-      "title": "간호사(면허증소지자) 3차전형 세부일정 공지사항",
-      "date": "2026-10-30",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1007",
+      "wr_no": 1003,
+      "title": "[2027년 광주기독병원 내과 1년차 모집]",
+      "date": "2026-10-23",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1003",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
       "detail": null
     },
     {
-      "wr_no": 1003,
-      "title": "[2027년 광주기독병원 내과 1년차 모집]",
-      "date": "2026-10-23",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1003",
+      "wr_no": 1007,
+      "title": "간호사(면허증소지자) 3차전형 세부일정 공지사항",
+      "date": "2026-10-30",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1007",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
@@ -183,26 +203,6 @@
       "title": "물리치료사(육아휴직대체) 채용공고",
       "date": "2026-09-29",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/992",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 991,
-      "title": "전기안전관리자(계약직) 채용공고",
-      "date": "2026-10-08",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/991",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 990,
-      "title": "★★관리과(기계실) 채용 1차 합격자",
-      "date": "2026-09-28",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/990",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
