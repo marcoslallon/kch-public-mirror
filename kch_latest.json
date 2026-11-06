@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T03:07:36.442077+00:00",
+  "generated_at": "2026-11-06T03:03:02.802351+00:00",
   "source": "https://www.kch.or.kr/user/board/lists/board_cd/notice",
   "keywords": [
     "전공의",
@@ -8,6 +8,16 @@
   "post_count": 20,
   "relevant_count": 0,
   "posts": [
+    {
+      "wr_no": 1012,
+      "title": "간호사(면허증소지자) 최종합격자 공고",
+      "date": "2026-11-06",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1012",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
     {
       "wr_no": 1011,
       "title": "약무보조원(계약직) 채용공고",
@@ -193,16 +203,6 @@
       "title": "작업치료사(계약직) 채용공고",
       "date": "2026-09-29",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/993",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 992,
-      "title": "물리치료사(육아휴직대체) 채용공고",
-      "date": "2026-09-29",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/992",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
