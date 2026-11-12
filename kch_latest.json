@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T03:04:03.716427+00:00",
+  "generated_at": "2026-11-12T03:03:04.028022+00:00",
   "source": "https://www.kch.or.kr/user/board/lists/board_cd/notice",
   "keywords": [
     "전공의",
@@ -8,6 +8,26 @@
   "post_count": 20,
   "relevant_count": 0,
   "posts": [
+    {
+      "wr_no": 1014,
+      "title": "★★ 임상병리사 채용1차 합격자(병리과)",
+      "date": "2026-11-12",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1014",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
+    {
+      "wr_no": 1013,
+      "title": "★★ 임상병리사 채용1차 합격자(진단검사의학과)",
+      "date": "2026-11-12",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1013",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
     {
       "wr_no": 1011,
       "title": "약무보조원(계약직) 채용공고",
@@ -29,6 +49,16 @@
       "detail": null
     },
     {
+      "wr_no": 1012,
+      "title": "간호사(면허증소지자) 최종합격자 공고",
+      "date": "2026-11-06",
+      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1012",
+      "relevant": false,
+      "matched_keywords": [],
+      "detail_saved": false,
+      "detail": null
+    },
+    {
       "wr_no": 1009,
       "title": "임상병리사 채용공고(병리과)",
       "date": "2026-11-03",
@@ -43,16 +73,6 @@
       "title": "임상병리사 채용공고(진단검사의학과)",
       "date": "2026-11-03",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1008",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 1012,
-      "title": "간호사(면허증소지자) 최종합격자 공고",
-      "date": "2026-11-06",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/1012",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
@@ -183,26 +203,6 @@
       "title": "약무보조원(계약직) 채용공고",
       "date": "2026-10-06",
       "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/995",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 994,
-      "title": "방사선사(계약직) 채용공고",
-      "date": "2026-10-01",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/994",
-      "relevant": false,
-      "matched_keywords": [],
-      "detail_saved": false,
-      "detail": null
-    },
-    {
-      "wr_no": 993,
-      "title": "작업치료사(계약직) 채용공고",
-      "date": "2026-09-29",
-      "url": "https://www.kch.or.kr/user/board/view/board_cd/notice/wr_no/993",
       "relevant": false,
       "matched_keywords": [],
       "detail_saved": false,
