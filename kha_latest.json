@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-11-20T03:02:04.287758+00:00",
+  "generated_at": "2026-11-23T03:01:50.825276+00:00",
   "source": "https://sinim.kha.or.kr/board/nsinim/list?siteGb=SINIMNEW&siteCd=SINIMNEW&brdMstIdx=446",
   "scope": "public_list_only_no_login_or_detail",
   "post_count": 10,
   "posts": [
+    {
+      "brd_idx": 38171,
+      "category": "수련",
+      "title": "2027년도 인턴 및 레지던트 1년차 정원 통보",
+      "date": "2026-11-20"
+    },
     {
       "brd_idx": 38170,
       "category": "전형",
@@ -57,12 +63,6 @@
       "category": "전형",
       "title": "2026년도 하반기 인턴 및 레지던트 1년차 모집 신청 안내",
       "date": "2026-07-06"
-    },
-    {
-      "brd_idx": 38160,
-      "category": "수련",
-      "title": "정원책정 지도전문의 결원에 따른 전공의 이동수련 관련 수련병원(기관) 조치사항 안내",
-      "date": "2026-07-03"
     }
   ]
 }
